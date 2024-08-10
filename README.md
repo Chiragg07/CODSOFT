@@ -1,1 +1,1 @@
-# Oibsip    This repository have the codes for the Oasis infobyte in the field of Java Development
+# CodSoft    This repository have the codes for the CodSoft internship in the field of Java Development
